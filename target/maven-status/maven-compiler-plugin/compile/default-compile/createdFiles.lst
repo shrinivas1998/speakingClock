@@ -1,0 +1,11 @@
+com\speakingclock\exception\GlobalExceptionHandler.class
+com\speakingclock\exception\InvalidNumberException.class
+com\speakingclock\controller\ClockInputController.class
+com\speakingclock\exception\StringNotMatchingException.class
+com\speakingclock\SpeakingclockApplication.class
+com\speakingclock\service\SpeakClockService$1.class
+com\speakingclock\dto\package-info.class
+com\speakingclock\service\SpeakClockService$2.class
+com\speakingclock\controller\package-info.class
+com\speakingclock\dto\ErrorDetails.class
+com\speakingclock\service\SpeakClockService.class

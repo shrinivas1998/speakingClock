@@ -1,0 +1,9 @@
+C:\Users\894675\Downloads\speakingclock\speakingclock\src\main\java\com\speakingclock\dto\package-info.java
+C:\Users\894675\Downloads\speakingclock\speakingclock\src\main\java\com\speakingclock\controller\package-info.java
+C:\Users\894675\Downloads\speakingclock\speakingclock\src\main\java\com\speakingclock\SpeakingclockApplication.java
+C:\Users\894675\Downloads\speakingclock\speakingclock\src\main\java\com\speakingclock\controller\ClockInputController.java
+C:\Users\894675\Downloads\speakingclock\speakingclock\src\main\java\com\speakingclock\service\SpeakClockService.java
+C:\Users\894675\Downloads\speakingclock\speakingclock\src\main\java\com\speakingclock\dto\ErrorDetails.java
+C:\Users\894675\Downloads\speakingclock\speakingclock\src\main\java\com\speakingclock\exception\InvalidNumberException.java
+C:\Users\894675\Downloads\speakingclock\speakingclock\src\main\java\com\speakingclock\exception\GlobalExceptionHandler.java
+C:\Users\894675\Downloads\speakingclock\speakingclock\src\main\java\com\speakingclock\exception\StringNotMatchingException.java

@@ -1,0 +1,9 @@
+Run application using below command
+
+java -jar speakingclock-0.0.1-SNAPSHOT2.jar
+
+Execute below command to test api end points
+
+curl --location --request POST 'http://localhost:8045/speakingClock/getTime/08:50'
+
+curl --location --request POST 'http://localhost:8045/speakingClock/getDay/08:50'
